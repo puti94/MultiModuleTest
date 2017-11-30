@@ -1,0 +1,3 @@
+rootProject.name = 'MultiModuleTest'
+
+include ':app'
